@@ -10,3 +10,5 @@ int main(){
 	while(read(0,s,100)) puts(s);
 	return 0;
 }
+// puts("You want flag?");
+// puts("just cat flag.txt")
